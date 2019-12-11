@@ -30,3 +30,12 @@ Takeaways from Jeff Sutherland's _Scrum The Art of doing twice the work in half 
 - pg.58: classic formation of a team is seven people, three sometimes works. 9 people slows down velocity strangely enough.
 - pg.59: Brook's Law: adding manpower late to a project makes it later. twenty people or more on a software project takes more effort than 5. Why it takes a while to get people up to speed. Bringing up a new person slows everyone down. Too much communication channel and focusing on different tasks slows us down... our brains can't handle it.
 - Milgram study: very few poeple have the resources to resist authority. The takeaway is that we act poorly in jobs because of the situation. Scrum attempts to rectify this bad system of work we're all in. And yet people blame people and not systems according to Fundamental Attribution Error.
+- pg 75: nothing gets moved to done unless it can be used by the customer.
+- The scrum board is Backlog, Doing, Done.
+- pg 75: Sprints are time boxes, a set duration. Consistent too, you don't do one week sprints then 5 week sprints. Once a sprint is locked in, nobody can add to it.
+- pg 76: Daily meeting: Has 3 questions: 1) What did you do yesterday to help the team finish the Sprint? 2) What will you do today to help the team finish the Sprint? 3) What obstacles are getting in the team's way? The team itself assigns tasks, it is autonomous. No detailed reporting to management. Anyone in management can walk by and look at the board.
+- pg 78: specialization is bad for a team. communication saturation is good. if poeple have a title, they tend to do things that only match that title. and the protect the power of that role, they tend to hold on to specific knowledge. So get rid of titles and spread knowledge. pairing is good for this. This was learned from Borland project... where more people knew everything and the faster the team.
+- pg 79: Borland's team also met everyday to discuss how they were performing. This also fixed blockers quickly. The three questions came out of reducing the Borland standup meeting.
+- Everyone stands up during the meeting.
+- Called daily standup or daily scrum.
+- pg 82: standups are supposed to remove dependencies.
